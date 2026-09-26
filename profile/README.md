@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner.svg" width="100%" alt="Squatch Stack: open tools for guitarists, and open research in holographic computing. Both run on phase.">
+    <img src="https://raw.githubusercontent.com/squatch-stack/squatch-stack/main/assets/banner.svg" width="100%" alt="Squatch Stack: open tools for guitarists, and open research in holographic computing. Both run on phase.">
   </picture>
 </p>
 
@@ -28,7 +28,7 @@ also the first block of [squatch-dsp](https://github.com/squatch-stack/squatch-d
 
 ## HDC: holographic computing research
 
-<a href="https://github.com/squatch-stack/hdc-holo"><img src="holo-logo.png" width="88" align="right" alt="holo: a saguaro in a two-source interference field"></a>
+<a href="https://github.com/squatch-stack/hdc-holo"><img src="https://raw.githubusercontent.com/squatch-stack/squatch-stack/main/holo-logo.png" width="88" align="right" alt="holo: a saguaro in a two-source interference field"></a>
 
 | Repository | What it does |
 |---|---|
@@ -36,7 +36,7 @@ also the first block of [squatch-dsp](https://github.com/squatch-stack/squatch-d
 | **[posekit](https://github.com/squatch-stack/posekit)**<br><sub>Swift · Apache-2.0</sub> | Camera poses from Apple's photogrammetry, for splat trainers. It writes nerfstudio and COLMAP formats on Apple silicon, with no CUDA. |
 
 <p align="center">
-  <img src="color_knot.gif" width="420" alt="a rainbow trefoil knot orbited live, every frame rendered from one 768 KB hologram with no geometry at render time">
+  <img src="https://raw.githubusercontent.com/squatch-stack/squatch-stack/main/color_knot.gif" width="420" alt="a rainbow trefoil knot orbited live, every frame rendered from one 768 KB hologram with no geometry at render time">
   <br><sub><i>A whole colored 3-D scene orbited from one 768 KB complex vector.
   No geometry exists at render time.</i></sub>
 </p>
@@ -54,7 +54,7 @@ also the first block of [squatch-dsp](https://github.com/squatch-stack/squatch-d
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tier-header-dark.svg">
-  <img src="assets/tier-header.svg" width="100%" alt="Sponsor Squatch Stack. Monthly tiers: $5 Open String, $10 In Tune, $25 Strobe, $100 Overtone, $250 Standing Wave.">
+  <img src="https://raw.githubusercontent.com/squatch-stack/squatch-stack/main/assets/tier-header.svg" width="100%" alt="Sponsor Squatch Stack. Monthly tiers: $5 Open String, $10 In Tune, $25 Strobe, $100 Overtone, $250 Standing Wave.">
 </picture>
 
 Everything here is free and open source. Sponsorship buys the two things open
